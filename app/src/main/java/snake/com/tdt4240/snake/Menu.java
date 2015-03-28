@@ -7,6 +7,7 @@ import android.view.MenuItem;
 
 //HELLO
 //BRANCH 2 TEST
+//Branch 2
 //Bonjour
 public class Menu extends ActionBarActivity {
 
