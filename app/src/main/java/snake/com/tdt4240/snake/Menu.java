@@ -7,7 +7,7 @@ import android.view.MenuItem;
 
 //HELLO
 
-//Hallo
+//guten tage
 public class Menu extends ActionBarActivity {
 
     @Override
