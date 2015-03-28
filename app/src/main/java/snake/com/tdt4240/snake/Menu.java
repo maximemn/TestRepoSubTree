@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-//HELLO 22
+//HELLO
 
 
 public class Menu extends ActionBarActivity {
